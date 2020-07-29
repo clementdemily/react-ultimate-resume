@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d404f274c89aba9c3e0e275676c080e",
+    "revision": "67716f897cbc77f41ce289b98885eaf3",
     "url": "/react-ultimate-resume/index.html"
   },
   {
