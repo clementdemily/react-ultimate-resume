@@ -1,234 +1,309 @@
 {
+  "basics": {
+    "name": "Clément DEMILY",
+    "label": "Developer",
+    "picture": "https://pbs.twimg.com/profile_images/1286601287556096001/52p_4_pG_400x400.jpg",
+    "email": "demily.clement+jobs@gmail.com",
+    "phone": "xxxxxxxx",
+    "website": "https://demily-clement.com",
+    "summary": "Developer living in Lille, passionate about the web and IT in general.",
+    "location": {
+      "address": "Lille",
+      "postalCode": "59000",
+      "city": "Lille",
+      "countryCode": "FR",
+      "region": "Haut-de-france",
+      "name": "Lille, France"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "demily_clement",
+      "url": "https://twitter.com/demily_clement"
+    }]
+  },
+  "work": [{
+    "name": "Unis C",
+    "position": "CTO",
+    "website": "http://company.com",
+    "startDate": "2015-10-01",
+    "summary": "As a co-founder, I am part of the board and help with the strategic development of the company.\n\nAs a CTO, I manage the development team, design, develop and publish various internal and public web applications Unis C.\n\n- Web application\n- Professional Dashboard\n- E-learning tool\n- Data sourcing tool\n\n\nTechnologies and Tools: Ruby On Rails, React, Docker, Git, HTML5, CSS3, JavaScript, Node.js, Gitlab, Gitlab CI, AWS, Kubernetes",
+    "location": "Lille, France",
+    "highlights": ["Started the company"],
+    "id": "9bdf7fe9-85da-46e3-96dd-c6ca98c2790a",
+    "place": {
+      "name": "Lille, France"
+    },
+    "stillEmployed": true,
+    "index": 0
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": ["Awarded 'Volunteer of the Month'"]
+  }],
+  "education": [{
+    "institution": "EPITECH",
+    "area": "Software Development",
+    "studyType": "Master",
+    "startDate": "2011-01-01",
+    "endDate": "2015-01-01",
+    "gpa": "4.0",
+    "courses": ["DB1101 - Basic SQL"],
+    "id": "9adb0704-29da-4c6b-8705-a97d2b0f76ee"
+  }, {
+    "institution": "Université Picardie Jules Verne",
+    "area": "Web Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2011-01-01",
+    "gpa": "4.0",
+    "courses": ["DB1101 - Basic SQL"],
+    "id": "858543b7-b491-412d-a985-e73197eb40d4"
+  }, {
+    "position": 2,
+    "id": "9479ffcd-7a6c-41e7-8a03-2cea698f73b1",
+    "institution": "BTS IRIS",
+    "endDate": "2010-01-01",
+    "area": "Software Development",
+    "studyType": "BTS"
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Rails",
+    "index": 0,
+    "value": 90,
+    "id": "981f3add-acd2-4bd7-83a0-dfea8fb1ba04"
+  }, {
+    "name": "React",
+    "index": 1,
+    "value": 80,
+    "id": "30faeb24-5c04-4f38-8ebc-74e76554d17d"
+  }, {
+    "name": "NodeJS",
+    "level": "Master",
+    "value": 70,
+    "keywords": ["HTML", "CSS", "Javascript"],
+    "index": 2,
+    "id": "46124fa9-6f44-41e6-9f87-9e80da77fada"
+  }, {
+    "name": "Docker",
+    "index": 3,
+    "value": 80,
+    "id": "e7cc54ad-b7a9-4bb7-9d7d-1b6dbceefbe8"
+  }, {
+    "name": "K8S",
+    "level": "Master",
+    "value": 50,
+    "keywords": ["HTML", "CSS", "Javascript"],
+    "index": 4,
+    "id": "3f13df73-3931-4755-909e-2fcc38602bea"
+  }, {
+    "name": "Gitlab",
+    "index": 5,
+    "value": 90,
+    "id": "662fd1b3-08dc-4d0b-af1a-028ca09b5339"
+  }, {
+    "name": "Git",
+    "index": 6,
+    "value": 89,
+    "id": "c876942a-6db9-457a-98f4-26850937e28a"
+  }],
+  "languages": [{
+    "language": "French",
+    "value": 100,
+    "fluency": "Native speaker",
+    "id": "7b391cd3-cc05-46c5-a8ee-30e97a7bfc6a",
+    "index": 0
+  }, {
+    "index": 1,
+    "id": "5eec9e3b-56a8-45e1-8594-7f5970f6c180",
+    "language": "English",
+    "value": 80
+  }, {
+    "index": 2,
+    "id": "e7908d27-12f8-4449-9ab0-96b8b632e679",
+    "language": "Spanish",
+    "value": 20
+  }, {
+    "index": 3,
+    "id": "5cc26938-01c7-4988-b8c8-7581a39ce4b3",
+    "language": "Japanese",
+    "value": 10
+  }],
+  "interests": [{
+    "name": "Guitar",
+    "id": "73932637-4a62-45b6-b231-4352a6021d3b",
+    "index": 0,
+    "gifUrl": "https://media.giphy.com/media/ToMjGpu0xa3M2nHDKWA/giphy.gif"
+  }, {
+    "index": 1,
+    "id": "a60886cf-4e7e-4e89-b7a0-4cb8adc49092",
+    "gifUrl": "https://media.giphy.com/media/d2Z7NqwF3yImFNHW/giphy.gif",
+    "name": "Gaming"
+  }, {
+    "index": 2,
+    "id": "cb585f99-61c8-4b6a-90d6-dd644511120d",
+    "gifUrl": "https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif",
+    "name": "Programming"
+  }, {
+    "index": 3,
+    "id": "a784a35c-9a7b-45bb-b78c-11f721648a80",
+    "gifUrl": "https://media.giphy.com/media/Wg3t1BrBTeTHq/giphy.gif",
+    "name": "Japanimation"
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }],
+  "projects": [{
+    "index": 1,
+    "name": "Portfolio",
+    "description": "It's been over 10 years that I own a personal website / blog / portfolio ... I write from time to time my moods, my favorite tech topics and tutorials.",
+    "images": [],
+    "id": "8472a668-3664-45df-a100-4803063fa6f3",
+    "date": "2008-12-31T23:00:00.000Z",
+    "link": "https://demily-clement.com",
+    "endDate": "2009-01-01"
+  }],
+  "specific": {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
-        "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
-            }
-        ]
+      "visaSponsorship": false,
+      "personalDescription": "I'm co-founder & CTO at Unis C. We mainly use React & Ruby On Rails, shipping code with Gitlab CI and running in the cloud with Docker & Kubernetes.\nI am also a freelance in my spare time.\nThe search for meaning in my job led me to work on Picto Access."
     },
-    "work": [
-        {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
-    "education": [
-        {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
-    ],
-    "skills": [
-        {
-            "name": "Reactaaa",
-            "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        }
-    ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
-    "interests": [
-        {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-        {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
-        },
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
-        }
-    ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
-    "projects": [
-        {
-            "index": 1,
-            "name": "1 Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": []
-        },
-        {
-            "index": 0,
-            "name": "2 Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": [],
-            "link" : "www.serpent.fr"
-        }
-    ],
-    "specific": {
-        "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
-        },
-        "dreamJob": {
-            "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
-            ],
-            "remoteFrequency": "regularly"
-        },
-        "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
-        },
-        "education": { "studiesLevel": 5 },
-        "work": {
-            "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
-            "searchState": "activelySearching",
-            "experienceYears": 0,
-            "codeExperienceYears": 1,
-            "otherExperienceYears": 1
-        },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
-        },
-        "interestedBy": "Angular, la blochain et les chatons."
+    "dreamJob": {
+      "locations": [{
+        "name": "Remote, Anywhere",
+        "id": "1ef8ef47-6544-49f0-8852-f2cadab63203"
+      }, {
+        "name": "Lille, France",
+        "id": "cefeff3c-9785-49e3-a76d-6f51943b2e83"
+      }],
+      "remoteFrequency": "fullTime",
+      "perks": {
+        "responsabilities": true,
+        "work_hours": true,
+        "salary": true,
+        "challenge": true,
+        "training": true
+      }
     },
-    "resumeCustomization": {
-        "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
+    "currentJob": {
+      "issues": {}
+    },
+    "education": {
+      "studiesLevel": 5
+    },
+    "work": {
+      "contractTypes": ["freelance"],
+      "codingYears": 11,
+      "codingReason": "Technology watch, continuous learning, problem solving",
+      "searchState": "notSearching",
+      "experienceYears": 0,
+      "codeExperienceYears": 11,
+      "otherExperienceYears": 0
+    },
+    "sound": {
+      "embedUrl": "https://open.spotify.com/embed/playlist/13gGwH228n37VoIbY6NhbA"
+    },
+    "interestedBy": "Ruby on Rails, React & Docker"
+  },
+  "resumeCustomization": {
+    "imageHeader": {
+      "url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3353&q=80"
+    },
+    "cardsOrder": [{
+      "type": "basics",
+      "variant": 3
+    }, {
+      "type": "projects",
+      "variant": 4
+    }, {
+      "type": "skills",
+      "variant": 0
+    }, {
+      "type": "dreamjob",
+      "variant": 4
+    }, {
+      "type": "experiences",
+      "variant": 0
+    }, {
+      "type": "studies",
+      "variant": 2
+    }, {
+      "type": "gifs",
+      "variant": 0
+    }, {
+      "type": "interestedBy",
+      "variant": 3
+    }, {
+      "type": "language",
+      "variant": 4
+    }, {
+      "type": "soundtrack",
+      "variant": 4
+    }],
+    "fields": {
+      "work": {
+        "customDateFormat": "YYYY"
+      }
+    },
+    "theme": {
+      "palette": {
+        "primary": {
+          "50": "#ebebeb",
+          "100": "#d6d7d7",
+          "200": "#aeafaf",
+          "300": "#858888",
+          "400": "#5d6060",
+          "500": "#343838",
+          "600": "#2a2d2d",
+          "700": "#1f2222",
+          "800": "#151616",
+          "900": "#0a0b0b",
+          "contrastDefaultColor": "light"
         },
-        "cardsOrder": [
-            { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
-        ],
-        "fields": {
-            "work": {
-                "customDateFormat": "YYYY"
-            }
+        "secondary": {
+          "50": "#e6eff0",
+          "100": "#ccdfe1",
+          "200": "#99bfc4",
+          "300": "#669fa6",
+          "400": "#337f89",
+          "500": "#005f6b",
+          "600": "#004c56",
+          "700": "#003940",
+          "800": "#00262b",
+          "900": "#001315",
+          "contrastDefaultColor": "light"
+        },
+        "tertiary": {
+          "50": "#e6f4f5",
+          "100": "#cce8ec",
+          "200": "#99d1d8",
+          "300": "#66bac5",
+          "400": "#33a3b1",
+          "500": "#008c9e",
+          "600": "#00707e",
+          "700": "#00545f",
+          "800": "#00383f",
+          "900": "#001c20",
+          "contrastDefaultColor": "light"
         }
+      }
     }
+  }
 }
